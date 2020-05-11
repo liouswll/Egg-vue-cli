@@ -15,8 +15,8 @@ export default {
               id: '1',
               img: 'https://img.yzcdn.cn/vant/logo.png',
               title: 'List 列表',
-              summary: 'summary',
-              concent: 'concentconcentconcentconcentconcentconcentconcentconcentconcentconcentconcentconcentconcentconcentconcentconcent',
+              summary: 'summarysummarysummarysummarysummarysummarysummarysummarysummarysummarysummarysummarysummarysummarysummarysummary',
+              concent: 'concentconcentconcentconcentconcentconcentconcentconcentconcentconcentconcentconcentconcentconcentconcentconcentconcentconcentconcentconcentconcentconcentconcentconcentconcentconcentconcentconcentconcentconcentconcentconcentconcentconcentconcentconcentconcentconcentconcentconcentconcentconcentconcentconcentconcentconcentconcentconcentconcentconcentconcentconcentconcentconcentconcentconcentconcentconcentconcentconcentconcentconcentconcentconcent',
               createTime: '2020-05-10'
             },
         }
